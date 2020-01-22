@@ -17,6 +17,7 @@ end
 def remove_element_from_end_of_array(array)
   create_an_array = ["whey", "pre workout", "aminos", "casein", "arrays!"]
   arrays! = create_an_array.pop
+  p arrays!
 end
 
 def remove_element_from_start_of_array(array)
