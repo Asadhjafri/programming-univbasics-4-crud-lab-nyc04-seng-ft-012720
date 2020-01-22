@@ -41,5 +41,5 @@ end
 
 def update_element_from_index(array, index_number, element)
   create_an_array = ["wow", "whey", "am", "pre workout", "aminos", "casein", "arrays!"]
-  create_an_array[3] = "totyally"
+  create_an_array[3] = "totally"
 end
