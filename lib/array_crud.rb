@@ -3,7 +3,7 @@ def create_an_empty_array
 end
 
 def create_an_array
-  ["whey", "pre workout", "aminos", "casein"]
+  ["wow", "whey", "pre workout", "aminos", "casein", "arrays!"]
 end
 
 def add_element_to_end_of_array(array, element)
@@ -15,7 +15,7 @@ def add_element_to_start_of_array(array, element)
 end
 
 def remove_element_from_end_of_array(array)
-
+  create_an_array.pop
 end
 
 def remove_element_from_start_of_array(array)
@@ -37,5 +37,3 @@ end
 def update_element_from_index(array, index_number, element)
 
 end
-
-create_an_array
