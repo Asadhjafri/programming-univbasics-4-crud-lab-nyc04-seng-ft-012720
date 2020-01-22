@@ -30,6 +30,7 @@ def retrieve_element_from_index(array, index_number)
 end
 
 def retrieve_first_element_from_array(array)
+  create_an_array = create_an_array = ["wow", "whey", "am", "pre workout", "aminos", "casein",]
   create_an_array[0]
 end
 
